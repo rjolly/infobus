@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Specification-Title: ``InfoBus 1.2 Specification''
+Specification-Version: ``1.2''
+Specification-Vendor: ``Lotus Development Corp.''.
+Release-Version: ``Release 1.2''
+Package-Title: `javax.infobus''
+Package-Version: ``1.2.0.0''
+Package-Vendor: ``Lotus Development Corp.''
